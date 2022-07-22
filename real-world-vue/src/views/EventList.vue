@@ -1,4 +1,3 @@
-<!-- eslint-disable no-undef -->
 <template>
   <div class="events">
     <h1>Events for Good</h1>
